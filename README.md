@@ -3,7 +3,8 @@
 * Este repositório foi criado para divulgar vários projetos em C# (.NET).
 
 O projeto foi criado para exercitar a programação em C# (.NET), e estudar sobre algumas funções do C#, tais como  Bhaskara, Tostring(), Média ponderada, System.Globalization, entre outras; 
-E também estudar algumas condições como IF, IF Else.
+E também estudar algumas condições como IF, IF Else;
+
 Os exercícios são do site: [beecrowd](https://www.beecrowd.com.br/judge/pt)
 
 **********************************************************************************
